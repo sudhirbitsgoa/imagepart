@@ -48,7 +48,7 @@ passport.use(new googleStrategy({
     callbackURL: "http://stoked-depth-789.appspot.com/"
 },
 function (accessToken, refreshToken, profile, done) {
-    console.log(profile); //profile contains all the personal data returned 
+    console.log(profile); //profile contains all the personal data returned
     done(null, profile)
 }
 ));
@@ -63,7 +63,7 @@ function (accessToken, refreshToken, profile, done) {
 app.get('/auth/google', passport.authenticate('google',{scope: 'https://www.googleapis.com/auth/plus.me https://www.google.com/m8/feeds https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile'}));
 
 
-app.post('/auth/google', function(req, res) {  
+app.post('/auth/google', function(req, res) {
   console.log(req.body);
   res.json({token:uuid.v4()});
   //res.redirect('/facedef.html');
@@ -168,8 +168,78 @@ router.get('/',function(req,res){
 
 });
 
+app.post('/upload',onRequest);
+
 app.use('/api',router);
 app.listen(port,function(){
     console.log("api started at ",port);
 
 });
+
+// Muaz Khan     - www.MuazKhan.com
+// MIT License   - www.WebRTC-Experiment.com/licence
+// Source Code   - github.com/muaz-khan/WebRTC-Experiment/tree/master/RecordRTC/RecordRTC-to-Nodejs
+
+
+    handlers = require('./handlers'),
+    router = require('./router'),
+    handle = { };
+
+handle["/"] = handlers.home;
+handle["/home"] = handlers.home;
+handle["/upload"] = handlers.upload;
+handle._static = handlers.serveStatic;
+
+
+
+function respondWithHTTPCode(response, code) {
+    response.writeHead(code, { 'Content-Type': 'text/plain' });
+    response.end();
+}
+
+function routeRTC(handle, pathname, response, postData) {
+    var extension = pathname.split('.').pop();
+
+    var staticFiles = {
+        js: 'js',
+        gif: 'gif',
+        css: 'css',
+        //webm: 'webm',
+        mp4: 'mp4',
+        wav: 'wav',
+        ogg: 'ogg'
+    };
+    console.log(staticFiles[extension]);
+    if ('function' === typeof handle[pathname]) {
+        handle[pathname](response, postData);
+    } else if (staticFiles[extension]) {
+        handle._static(response, pathname, postData);
+    } else {
+        respondWithHTTPCode(response, 404);
+    }
+}
+
+
+var config = require('./config'),
+    http = require('http'),
+    url = require('url');
+
+
+
+function onRequest(request, response) {
+    console.log("on request is called for every request");
+    var pathname = url.parse(request.url).pathname,
+        postData = '';
+
+    request.setEncoding('utf8');
+
+    request.addListener('data', function(postDataChunk) {
+        postData += postDataChunk;
+    });
+
+    request.addListener('end', function() {
+        routeRTC(handle, pathname, response, postData);
+    });
+}
+
+    //http.createServer(onRequest).listen(config.port);
