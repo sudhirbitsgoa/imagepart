@@ -5,7 +5,13 @@
 var config = require('./config'),
     fs = require('fs'),
     sys = require('sys'),
-    exec = require('child_process').exec;
+    exec = require('child_process').exec,
+    mongoose = require('mongoose'),
+    Grid = require('gridfs-stream'),
+    GridStore = require('mongodb').GridStore,
+    ObjectID = require('mongodb').ObjectID;
+
+var conn = mongoose.createConnection('localhost', 'test', 27017 );
 
 function home(response) {
     response.writeHead(200, {
@@ -54,8 +60,23 @@ function _upload(response, file) {
     file.contents = file.contents.split(',').pop();
 
     fileBuffer = new Buffer(file.contents, "base64");
+    var gfs = Grid( conn.db, mongoose.mongo );
+    var target = gfs.createWriteStream({
+      filename: filePath
+    });
+    var gridStore = new GridStore(conn.db, new ObjectID(),filePath, "w");
 
-    fs.writeFileSync(filePath, fileBuffer);
+    gridStore.open(function(err, gridStore) {
+      // Write some content to the file
+      gridStore.write(fileBuffer, function(err, gridStore) {
+        // Flush the file to GridFS
+        gridStore.close(function(err, fileData) {
+          //assert.equal(null, err);
+        });
+      });
+    });
+
+    //fs.writeFileSync(filePath, fileBuffer);
 }
 
 function serveStatic(response, pathname) {

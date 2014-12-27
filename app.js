@@ -4,6 +4,7 @@
 var express = require('express');
 var Name = require('./server/models/name');
 var User = require('./server/models/userDetails.js');
+var videoFiles = require("./server/models/videofiles.js");
 var UserAuth = require('./server/models/users.js')
 var app = express();
 var bodyParser = require('body-parser');
@@ -169,6 +170,12 @@ router.get('/',function(req,res){
 });
 
 app.post('/upload',onRequest);
+
+app.get('/videos',function(req,res){
+   videoFiles.find({},function(err,data){
+     res.json(data);
+   });
+})
 
 app.use('/api',router);
 app.listen(port,function(){

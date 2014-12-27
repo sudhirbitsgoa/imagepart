@@ -59,10 +59,15 @@ angular
                 url:'/loginsuccess',
                 templateUrl: 'views/loginsuccess.html',
                 controller: 'LoginCtrl'
+            })
+            .state('videos',{
+              url : '/videos',
+              templateUrl:'views/videoslist.html',
+              controller:'VideosCtrl'
             });
 
         $authProvider.google({
             clientId: '748388540408-ehicrpsrll1gb9od0f2la5kde8krkvkj.apps.googleusercontent.com'
         });
-        $authProvider.loginRedirect = 'http://localhost:8000/facedef.html';  
+        $authProvider.loginRedirect = 'http://localhost:8000/facedef.html';
     });

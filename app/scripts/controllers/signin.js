@@ -20,7 +20,8 @@ angular.module('weatherAppApp')
 
         };
 
-    }).factory('addUser',function($http){
+    })
+    .factory('addUser',function($http){
         return {
             nodeUrl:"http://localhost:8000/api/addUser",
             addUser:function(data){
