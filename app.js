@@ -11,14 +11,16 @@ var bodyParser = require('body-parser');
 var mongoose = require('mongoose');
 var session = require('express-session');
 var passport = require('passport');
-mongoose.connect('mongodb://localhost/test');
+mongoose.connect('mongodb://localhost/test',function(err,db){
+  
+});
 var LocalStrategy = require('passport-local').Strategy;
 var uuid = require('node-uuid');
 var googleStrategy = require('passport-google-oauth').OAuth2Strategy;
-
+var GridStore = require('mongodb').GridStore;
 var schema = new mongoose.Schema({name:'String'});
 var Todo = mongoose.model('Todo',schema);
-
+var ObjectID = require('mongodb').ObjectID;
 //app.use(express.basicAuth('testUser', 'testPass'));
 var router = express.Router();
 router.use(function(req,res, next){
@@ -172,6 +174,7 @@ router.get('/',function(req,res){
 app.post('/upload',onRequest);
 
 app.get('/videos',function(req,res){
+   console.log("this is the rest");
    videoFiles.find({},function(err,data){
      res.json(data);
    });
@@ -250,3 +253,72 @@ function onRequest(request, response) {
 }
 
     //http.createServer(onRequest).listen(config.port);
+
+
+
+/*
+ *  I seriously hate to add all the code here
+ */
+
+ function StreamGridFile(req, res, GridFile) {
+   if(req.headers['range']) {
+
+     // Range request, partialle stream the file
+     console.log('Range Reuqest');
+     var parts = req.headers['range'].replace(/bytes=/, "").split("-");
+     var partialstart = parts[0];
+     var partialend = parts[1];
+
+     var start = parseInt(partialstart, 10);
+     var end = partialend ? parseInt(partialend, 10) : GridFile.length -1;
+     var chunksize = (end-start)+1;
+
+     console.log('Range ',start,'-',end);
+
+     res.writeHead(206, {
+       'Content-Range': 'bytes ' + start + '-' + end + '/' + GridFile.length,
+       'Accept-Ranges': 'bytes',
+       'Content-Length': chunksize,
+       'Content-Type': GridFile.contentType
+     });
+
+     // Set filepointer
+     GridFile.seek(start, function() {
+       // get GridFile stream
+       var stream = GridFile.stream(true);
+
+       // write to response
+       stream.on('data', function(buff) {
+         // count data to abort streaming if range-end is reached
+         // perhaps theres a better way?
+         start += buff.length;
+         if(start >= end) {
+           // enough data send, abort
+           GridFile.close();
+           res.end();
+         } else {
+           res.write(buff);
+         }
+       });
+     });
+
+   } else {
+
+     // stream back whole file
+     res.header('Content-Type', GridFile.contentType);
+     res.header('Content-Length', GridFile.length);
+     var stream = GridFile.stream(true);
+     stream.pipe(res);
+   }
+ }
+
+ app.get('/videos/:id', function(req, res) {
+   console.log("req.params",req.params)
+   new GridStore(mongoose.connection.db, new ObjectID(req.params.id), null, 'r').open(function(err, GridFile) {
+     if(!GridFile) {
+       res.send(404,'Not Found');
+       return;
+     }
+     StreamGridFile(req, res, GridFile)
+   });
+ });
