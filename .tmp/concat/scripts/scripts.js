@@ -233,6 +233,7 @@ angular.module('weatherAppApp')
 
       getVideos.getVideos().then(function(data){
         console.log("videos data",data);
+        $scope.videos = data.data;
       })
     }])
     .factory('getVideos',["$http", function($http){
