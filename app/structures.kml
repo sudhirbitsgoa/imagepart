@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="structures" id="structures">
+<SimpleField name="Longitude" type="float"></SimpleField>
+<SimpleField name="Latitude" type="float"></SimpleField>
+<SimpleField name="Location" type="string"></SimpleField>
+<SimpleField name="Str_Code" type="string"></SimpleField>
+<SimpleField name="GL__m_" type="int"></SimpleField>
+<SimpleField name="Hab_code" type="float"></SimpleField>
+<SimpleField name="Capacity" type="string"></SimpleField>
+<SimpleField name="Staging" type="int"></SimpleField>
+<SimpleField name="Ex__Prop" type="string"></SimpleField>
+<SimpleField name="Plain_Hill" type="string"></SimpleField>
+<SimpleField name="Seg_Name" type="string"></SimpleField>
+<SimpleField name="Division" type="string"></SimpleField>
+<SimpleField name="District" type="string"></SimpleField>
+<SimpleField name="New_Distri" type="string"></SimpleField>
+<SimpleField name="Sub_Div" type="string"></SimpleField>
+</Schema>
+<Folder>
+<name>structures</name>
+<Placemark>
+<name></name>
+<description><![CDATA[<div align="center"><table width="500"><tr><td>
+<a href=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png><img src=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png width="500" height="373"></a>
+</td></tr></table></div>]]>Dia:!<br/> Class:!<br/> Status:-<br/>Longitude:45.265<br/>Latitude:18.544<br/>Updated user:-<br/>Updated on:- </description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/valve.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+45.265,18.544
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name></name>
+<description><![CDATA[<div align="center"><table width="500"><tr><td>
+<a href=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png><img src=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png width="500" height="373"></a>
+</td></tr></table></div>]]>Dia:!<br/> Class:!<br/> Status:-<br/>Longitude:48.65<br/>Latitude:19.25<br/>Updated user:-<br/>Updated on:- </description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/valve.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+48.65,19.25
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name></name>
+<description><![CDATA[<div align="center"><table width="500"><tr><td>
+<a href=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png><img src=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png width="500" height="373"></a>
+</td></tr></table></div>]]>Dia:!<br/> Class:!<br/> Status:-<br/>Longitude:48.65<br/>Latitude:19.25<br/>Updated user:-<br/>Updated on:- </description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/valve.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+48.65,19.25
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name></name>
+<description><![CDATA[<div align="center"><table width="500"><tr><td>
+<a href=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png><img src=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png width="500" height="373"></a>
+</td></tr></table></div>]]>Dia:!<br/> Class:!<br/> Status:-<br/>Longitude:45.265<br/>Latitude:18.544<br/>Updated user:-<br/>Updated on:- </description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/valve.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+45.265,18.544
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name></name>
+<description><![CDATA[<div align="center"><table width="500"><tr><td>
+<a href=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png><img src=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png width="500" height="373"></a>
+</td></tr></table></div>]]>Dia:!<br/> Class:!<br/> Status:-<br/>Longitude:46.9575<br/>Latitude:18.897<br/>Updated user:-<br/>Updated on:- </description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/valve.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+46.9575,18.897
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name></name>
+<description><![CDATA[<div align="center"><table width="500"><tr><td>
+<a href=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png><img src=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png width="500" height="373"></a>
+</td></tr></table></div>]]>Dia:!<br/> Class:!<br/> Status:-<br/>Longitude:46.9575<br/>Latitude:18.897<br/>Updated user:-<br/>Updated on:- </description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/valve.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+46.9575,18.897
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name></name>
+<description><![CDATA[<div align="center"><table width="500"><tr><td>
+<a href=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png><img src=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png width="500" height="373"></a>
+</td></tr></table></div>]]>Dia:!<br/> Class:!<br/> Status:-<br/>Longitude:46.9575<br/>Latitude:18.897<br/>Updated user:-<br/>Updated on:- </description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/valve.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+46.9575,18.897
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name></name>
+<description><![CDATA[<div align="center"><table width="500"><tr><td>
+<a href=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png><img src=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png width="500" height="373"></a>
+</td></tr></table></div>]]>Dia:!<br/> Class:!<br/> Status:-<br/>Longitude:46.9575<br/>Latitude:18.897<br/>Updated user:-<br/>Updated on:- </description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/valve.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+46.9575,18.897
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name></name>
+<description><![CDATA[<div align="center"><table width="500"><tr><td>
+<a href=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png><img src=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png width="500" height="373"></a>
+</td></tr></table></div>]]>Dia:!<br/> Class:!<br/> Status:-<br/>Longitude:46.9575<br/>Latitude:18.897<br/>Updated user:-<br/>Updated on:- </description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/valve.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+46.9575,18.897
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name></name>
+<description><![CDATA[<div align="center"><table width="500"><tr><td>
+<a href=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png><img src=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png width="500" height="373"></a>
+</td></tr></table></div>]]>Dia:!<br/> Class:!<br/> Status:-<br/>Longitude:46.9575<br/>Latitude:18.897<br/>Updated user:-<br/>Updated on:- </description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/valve.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+46.9575,18.897
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name></name>
+<description><![CDATA[<div align="center"><table width="500"><tr><td>
+<a href=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png><img src=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png width="500" height="373"></a>
+</td></tr></table></div>]]>Dia:!<br/> Class:!<br/> Status:-<br/>Longitude:46.9575<br/>Latitude:18.897<br/>Updated user:-<br/>Updated on:- </description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/valve.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+46.9575,18.897
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name></name>
+<description><![CDATA[<div align="center"><table width="500"><tr><td>
+<a href=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png><img src=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png width="500" height="373"></a>
+</td></tr></table></div>]]>Dia:!<br/> Class:!<br/> Status:-<br/>Longitude:46.9575<br/>Latitude:18.897<br/>Updated user:-<br/>Updated on:- </description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/valve.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+46.9575,18.897
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name></name>
+<description><![CDATA[<div align="center"><table width="500"><tr><td>
+<a href=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png><img src=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png width="500" height="373"></a>
+</td></tr></table></div>]]>Dia:!<br/> Class:!<br/> Status:-<br/>Longitude:46.9575<br/>Latitude:18.897<br/>Updated user:-<br/>Updated on:- </description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/valve.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+46.9575,18.897
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name></name>
+<description><![CDATA[<div align="center"><table width="500"><tr><td>
+<a href=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png><img src=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png width="500" height="373"></a>
+</td></tr></table></div>]]>Dia:!<br/> Class:!<br/> Status:-<br/>Longitude:46.9575<br/>Latitude:18.897<br/>Updated user:-<br/>Updated on:- </description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/valve.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+46.9575,18.897
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name></name>
+<description><![CDATA[<div align="center"><table width="500"><tr><td>
+<a href=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png><img src=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png width="500" height="373"></a>
+</td></tr></table></div>]]>Dia:!<br/> Class:!<br/> Status:-<br/>Longitude:46.9575<br/>Latitude:18.897<br/>Updated user:-<br/>Updated on:- </description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/valve.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+46.9575,18.897
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name></name>
+<description><![CDATA[<div align="center"><table width="500"><tr><td>
+<a href=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png><img src=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png width="500" height="373"></a>
+</td></tr></table></div>]]>Dia:!<br/> Class:!<br/> Status:-<br/>Longitude:46.9575<br/>Latitude:18.897<br/>Updated user:-<br/>Updated on:- </description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/valve.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+46.9575,18.897
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name></name>
+<description><![CDATA[<div align="center"><table width="500"><tr><td>
+<a href=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png><img src=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png width="500" height="373"></a>
+</td></tr></table></div>]]>Dia:!<br/> Class:!<br/> Status:-<br/>Longitude:46.9575<br/>Latitude:18.897<br/>Updated user:-<br/>Updated on:- </description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/valve.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+46.9575,18.897
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name></name>
+<description><![CDATA[<div align="center"><table width="500"><tr><td>
+<a href=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png><img src=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png width="500" height="373"></a>
+</td></tr></table></div>]]>Dia:!<br/> Class:!<br/> Status:-<br/>Longitude:46.9575<br/>Latitude:18.897<br/>Updated user:-<br/>Updated on:- </description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/valve.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+46.9575,18.897
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name></name>
+<description><![CDATA[<div align="center"><table width="500"><tr><td>
+<a href=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png><img src=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png width="500" height="373"></a>
+</td></tr></table></div>]]>Dia:!<br/> Class:!<br/> Status:-<br/>Longitude:46.9575<br/>Latitude:18.897<br/>Updated user:-<br/>Updated on:- </description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/valve.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+46.9575,18.897
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name></name>
+<description><![CDATA[<div align="center"><table width="500"><tr><td>
+<a href=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png><img src=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png width="500" height="373"></a>
+</td></tr></table></div>]]>Dia:!<br/> Class:!<br/> Status:-<br/>Longitude:46.9575<br/>Latitude:18.897<br/>Updated user:-<br/>Updated on:- </description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/valve.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+46.9575,18.897
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name></name>
+<description><![CDATA[<div align="center"><table width="500"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/tdwspfiles/159030101002123/progressfiles/10-02-2017-035449/progress-image-valveEntryImage.jpg><img src=http://missionbhagiratha.telangana.gov.in/tdwspfiles/159030101002123/progressfiles/10-02-2017-035449/progress-image-valveEntryImage.jpg width="500" height="373"></a>
+</td></tr></table></div>]]>Dia:100<br/> Class:6<br/> Status:Fitted<br/>Longitude:78.5521<br/>Latitude:17.6354<br/>Updated user:admin<br/>Updated on:2017-02-10 03:54:49.0 </description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/valve.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.5521,17.6354
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name></name>
+<description><![CDATA[<div align="center"><table width="500"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/tdwspfiles/159030102001001/progressfiles/12-02-2017-090847/progress-image-valveUpdateImage.jpg><img src=http://missionbhagiratha.telangana.gov.in/tdwspfiles/159030102001001/progressfiles/12-02-2017-090847/progress-image-valveUpdateImage.jpg width="500" height="373"></a>
+</td></tr></table></div>]]>Dia:100<br/> Class:10<br/> Status:Fitted<br/>Longitude:78.4826<br/>Latitude:17.6359<br/>Updated user:admin<br/>Updated on:2017-02-12 09:08:47.0 </description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/valve.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.4826,17.6359
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name></name>
+<description><![CDATA[<div align="center"><table width="500"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/tdwspfiles/159030102001001/progressfiles/12-02-2017-095622/progress-image-valveUpdateImage.jpg><img src=http://missionbhagiratha.telangana.gov.in/tdwspfiles/159030102001001/progressfiles/12-02-2017-095622/progress-image-valveUpdateImage.jpg width="500" height="373"></a>
+</td></tr></table></div>]]>Dia:100<br/> Class:100<br/> Status:Fitted<br/>Longitude:78.4851<br/>Latitude:17.6425<br/>Updated user:admin<br/>Updated on:2017-02-12 09:56:22.0 </description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/valve.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.4851,17.6425
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name></name>
+<description><![CDATA[<div align="center"><table width="500"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/tdwspfiles/159030102001001/progressfiles/12-02-2017-095842/progress-image-valveUpdateImage.jpg><img src=http://missionbhagiratha.telangana.gov.in/tdwspfiles/159030102001001/progressfiles/12-02-2017-095842/progress-image-valveUpdateImage.jpg width="500" height="373"></a>
+</td></tr></table></div>]]>Dia:100<br/> Class:100<br/> Status:Fitted<br/>Longitude:78.4865<br/>Latitude:17.6468<br/>Updated user:admin<br/>Updated on:2017-02-12 09:58:42.0 </description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/valve.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.4865,17.6468
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name></name>
+<description><![CDATA[<div align="center"><table width="500"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/tdwspfiles/159030102001001/progressfiles/12-02-2017-100037/progress-image-valveUpdateImage.jpg><img src=http://missionbhagiratha.telangana.gov.in/tdwspfiles/159030102001001/progressfiles/12-02-2017-100037/progress-image-valveUpdateImage.jpg width="500" height="373"></a>
+</td></tr></table></div>]]>Dia:100<br/> Class:100<br/> Status:Not Available<br/>Longitude:78.4882<br/>Latitude:17.6506<br/>Updated user:admin<br/>Updated on:2017-02-12 10:00:37.0 </description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/valve.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.4882,17.6506
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name></name>
+<description><![CDATA[<div align="center"><table width="500"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/tdwspfiles/159030102001001/progressfiles/12-02-2017-100325/progress-image-valveUpdateImage.jpg><img src=http://missionbhagiratha.telangana.gov.in/tdwspfiles/159030102001001/progressfiles/12-02-2017-100325/progress-image-valveUpdateImage.jpg width="500" height="373"></a>
+</td></tr></table></div>]]>Dia:100<br/> Class:100<br/> Status:Fitted<br/>Longitude:78.4923<br/>Latitude:17.6587<br/>Updated user:admin<br/>Updated on:2017-02-12 10:03:25.0 </description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/valve.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.4923,17.6587
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name></name>
+<description><![CDATA[<div align="center"><table width="500"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/tdwspfiles/159030102001001/progressfiles/12-02-2017-100455/progress-image-valveEntryImage.jpg><img src=http://missionbhagiratha.telangana.gov.in/tdwspfiles/159030102001001/progressfiles/12-02-2017-100455/progress-image-valveEntryImage.jpg width="500" height="373"></a>
+</td></tr></table></div>]]>Dia:100<br/> Class:100<br/> Status:Fitted<br/>Longitude:78.4923<br/>Latitude:17.6587<br/>Updated user:admin<br/>Updated on:2017-02-12 10:04:55.0 </description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/valve.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.4923,17.6587
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name></name>
+<description><![CDATA[<div align="center"><table width="500"><tr><td>
+<a href=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png><img src=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png width="500" height="373"></a>
+</td></tr></table></div>]]>Dia:100<br/> Class:10<br/> Status:Fitted<br/>Longitude:78.4885<br/>Latitude:17.6668<br/>Updated user:-<br/>Updated on:- </description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/valve.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.4885,17.6668
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name></name>
+<description><![CDATA[<div align="center"><table width="500"><tr><td>
+<a href=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png><img src=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png width="500" height="373"></a>
+</td></tr></table></div>]]>Dia:100<br/> Class:10<br/> Status:Fitted<br/>Longitude:78.4885<br/>Latitude:17.6668<br/>Updated user:-<br/>Updated on:- </description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/valve.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.4885,17.6668
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name></name>
+<description><![CDATA[<div align="center"><table width="500"><tr><td>
+<a href=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png><img src=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png width="500" height="373"></a>
+</td></tr></table></div>]]>Dia:100<br/> Class:10<br/> Status:Fitted<br/>Longitude:78.4885<br/>Latitude:17.6668<br/>Updated user:-<br/>Updated on:- </description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/valve.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.4885,17.6668
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name></name>
+<description><![CDATA[<div align="center"><table width="500"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/tdwspfiles/159030102001001/progressfiles/12-02-2017-102030/progress-image-valveEntryImage.jpg><img src=http://missionbhagiratha.telangana.gov.in/tdwspfiles/159030102001001/progressfiles/12-02-2017-102030/progress-image-valveEntryImage.jpg width="500" height="373"></a>
+</td></tr></table></div>]]>Dia:100<br/> Class:10<br/> Status:Fitted<br/>Longitude:78.4874<br/>Latitude:17.6717<br/>Updated user:admin<br/>Updated on:2017-02-12 10:20:30.0 </description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/valve.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.4874,17.6717
+</coordinates>
+</Point>
+</Placemark><Placemark>
+<name></name>
+<description><![CDATA[<div align="center"><table width="500"><tr><td>
+<a href=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png><img src=https://cdn0.iconfinder.com/data/icons/industrial-cool-vector-1/128/12-512.png width="500" height="373"></a>
+</td></tr></table></div>]]>Dia:100<br/> Class:10<br/> Status:Fitted<br/>Longitude:78.4885<br/>Latitude:17.6668<br/>Updated user:-<br/>Updated on:- </description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/valve.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.4885,17.6668
+</coordinates>
+</Point>
+</Placemark></Folder></Document></kml>
