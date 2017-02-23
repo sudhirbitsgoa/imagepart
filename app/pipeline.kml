@@ -1,0 +1,1751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="structures" id="structures">
+<SimpleField name="Longitude" type="float"></SimpleField>
+<SimpleField name="Latitude" type="float"></SimpleField>
+<SimpleField name="Location" type="string"></SimpleField>
+<SimpleField name="Str_Code" type="string"></SimpleField>
+<SimpleField name="GL__m_" type="int"></SimpleField>
+<SimpleField name="Hab_code" type="float"></SimpleField>
+<SimpleField name="Capacity" type="string"></SimpleField>
+<SimpleField name="Staging" type="int"></SimpleField>
+<SimpleField name="Ex__Prop" type="string"></SimpleField>
+<SimpleField name="Plain_Hill" type="string"></SimpleField>
+<SimpleField name="Seg_Name" type="string"></SimpleField>
+<SimpleField name="Division" type="string"></SimpleField>
+<SimpleField name="District" type="string"></SimpleField>
+<SimpleField name="New_Distri" type="string"></SimpleField>
+<SimpleField name="Sub_Div" type="string"></SimpleField>
+</Schema>
+<Folder>
+<name>structures</name>
+<Placemark>
+<name>SUMP</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/tdwspfiles/150430000000006490303001/progressfiles/10-02-2017-110035/progress-image-assetImage.jpg><img src=http://missionbhagiratha.telangana.gov.in/tdwspfiles/150430000000006490303001/progressfiles/10-02-2017-110035/progress-image-assetImage.jpg width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:Medchal<br/> Location:TTD Kalyanamandapam<br/>Asset Code:150430000000006490303001<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16,DT:14102015 <br/> Target Date:30-04-2016<br/>Completed % :90<br/>Amount Paid:69.4<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.4826333,17.6360722<br/>Capacity:1000<br/>Length/Dia:20 <br/>Bredth:0<br/>Height:4<br/>GL:577<br/>MWL:581<br/>LWL:577</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/S.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.4826333,17.6360722
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pump House</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=/tdwspfiles/150430000000006490309002/progressfiles/06-07-2016-065138/IMG-20160706-WA0014.jpg><img src=/tdwspfiles/150430000000006490309002/progressfiles/06-07-2016-065138/IMG-20160706-WA0014.jpg width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:Medchal<br/> Location:TTD Kalyanamandapam<br/>Asset Code:150430000000006490309002<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16,DT:14102015 <br/> Target Date:30-04-2016<br/>Completed % :50<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.4826333,17.6360722<br/>Length/Dia:20 <br/>Bredth:7<br/>Height:8<br/>GL:577<br/>Flore Level: 581</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/pumphouse.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.4826333,17.6360722
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHBR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/tdwspfiles/150430800501020090304003/progressfiles/12-02-2017-094339/progress-image-assetImage.jpg><img src=http://missionbhagiratha.telangana.gov.in/tdwspfiles/150430800501020090304003/progressfiles/12-02-2017-094339/progress-image-assetImage.jpg width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:YELLAMPET<br/> Location:TEMPLE<br/>Asset Code:150430800501020090304003<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement: 02/2015-16,DT:14102015 <br/> Target Date:31-08-2016<br/>Completed % :75<br/>Amount Paid:52.25<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.4895180,17.6753453<br/>Capacity:40<br/>Staging:30 <br/>GL:636<br/>LWL:666<br/> MWL:669</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.4895180,17.6753453
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:YELLAMPET<br/> Location:YELLAMPET<br/>Asset Code:150430800501020090307004<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :65<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.4879000,17.6855000<br/>Capacity:120.00<br/>Staging:13.05 <br/>GL:601.2354<br/>LWL:9.15<br/>MWL:12.15</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.4879000,17.6855000
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:RAVALKOLE<br/> Location:RAVALKOLE<br/>Asset Code:150430800701040090307002<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :50<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.5251000,17.6594000<br/>Capacity:200.00<br/>Staging:13.1 <br/>GL:612.3576<br/>LWL:9.2<br/>MWL:12.2</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.5251000,17.6594000
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:GUDEMGADDATHANDA<br/> Location:?GUDEMGADDATHANDA<br/>Asset Code:150430800703040090307002<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :5<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.5134000,17.6833000<br/>Capacity:40.00<br/>Staging:12.75 <br/>GL:592.11<br/>LWL:8.85<br/>MWL:11.85</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.5134000,17.6833000
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:YADARAM<br/> Location:YADARAM<br/>Asset Code:150430800901050090307003<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :20<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.5738000,17.6677000<br/>Capacity:120.00<br/>Staging:13.05 <br/>GL:583.46<br/>LWL:9.15<br/>MWL:12.15</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.5738000,17.6677000
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:DABILPUR<br/> Location:DABILPUR<br/>Asset Code:150430801301080090307004<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :30<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.4690000,17.6662000<br/>Capacity:200.00<br/>Staging:13.1 <br/>GL:606.456<br/>LWL:9.2<br/>MWL:12.2</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.4690000,17.6662000
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:BANDAMADARAM<br/> Location:BANDAMADARAM<br/>Asset Code:150430801401090090307003<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :0<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.4266000,17.6487000<br/>Capacity:40.00<br/>Staging:12.75 <br/>GL:609.123<br/>LWL:8.85<br/>MWL:11.85</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.4266000,17.6487000
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:SRIRANGAVARAM<br/> Location:SRIRANGAVARAM<br/>Asset Code:150430801501100090307003<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :60<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.4269000,17.6598000<br/>Capacity:200.00<br/>Staging:13.1 <br/>GL:613.456<br/>LWL:9.2<br/>MWL:12.2</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.4269000,17.6598000
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:KURMAGADDA<br/> Location:KURMAGADDA<br/>Asset Code:150430801503100090307001<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :10<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.4199000,17.6503000<br/>Capacity:40.00<br/>Staging:12.75 <br/>GL:616.97<br/>LWL:8.85<br/>MWL:11.85</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.4199000,17.6503000
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:RAILAPUR<br/> Location:RAILAPUR<br/>Asset Code:150430801701110090307003<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :0<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.4531000,17.6347000<br/>Capacity:90.00<br/>Staging:12.75 <br/>GL:112.192<br/>LWL:8.85<br/>MWL:11.85</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.4531000,17.6347000
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHBR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/tdwspfiles/150430801801120090304003/progressfiles/26-11-2016-031908/IMG-20161126-WA0055.jpg><img src=http://missionbhagiratha.telangana.gov.in/tdwspfiles/150430801801120090304003/progressfiles/26-11-2016-031908/IMG-20161126-WA0055.jpg width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:GIRMAPUR<br/> Location:GIRMAPUR<br/>Asset Code:150430801801120090304003<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16,DT:14102015 <br/> Target Date:30-09-2016<br/>Completed % :75<br/>Amount Paid:91.11<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.4705556,17.6344444<br/>Capacity:120<br/>Staging:25 <br/>GL:650<br/>LWL:675<br/> MWL:678</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.4705556,17.6344444
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:GIRMAPUR<br/> Location:GIRMAPUR<br/>Asset Code:150430801801120090307004<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :60<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.4531000,17.6347700<br/>Capacity:40.00<br/>Staging:12.75 <br/>GL:597.75<br/>LWL:8.85<br/>MWL:11.85</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.4531000,17.6347700
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:GOWDAVELLY<br/> Location:GOWDAVELLY<br/>Asset Code:150430801901130090307002<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :15<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.4686600,17.6120000<br/>Capacity:200.00<br/>Staging:13.1 <br/>GL:589.289<br/>LWL:9.2<br/>MWL:12.2</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.4686600,17.6120000
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:PUDUR<br/> Location:PUDUR<br/>Asset Code:150430802101150090307005<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :60<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.5226000,17.6203000<br/>Capacity:90.00<br/>Staging:12.75 <br/>GL:573.2354<br/>LWL:8.85<br/>MWL:11.85</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.5226000,17.6203000
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=/tdwspfiles/150430802301060090307003/progressfiles/16-07-2016-111015/Ghanapur 60-KL.jpg><img src=/tdwspfiles/150430802301060090307003/progressfiles/16-07-2016-111015/Ghanapur 60-KL.jpg width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:GHANPUR<br/> Location:GHANPUR<br/>Asset Code:150430802301060090307003<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :20<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.5365000,17.6290000<br/>Capacity:90.00<br/>Staging:12.75 <br/>GL:569.769<br/>LWL:8.85<br/>MWL:11.85</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.5365000,17.6290000
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:MUNEERABAD<br/> Location:MUNEERABAD<br/>Asset Code:150430802501160090307003<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :0<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.5174000,17.5954000<br/>Capacity:40.00<br/>Staging:12.75 <br/>GL:101.34<br/>LWL:8.85<br/>MWL:11.85</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.5174000,17.5954000
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:SUTHARIGUDA<br/> Location:SUTHARIGUDA<br/>Asset Code:150430802601170090307002<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :10<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.4772000,17.6065000<br/>Capacity:40.00<br/>Staging:12.75 <br/>GL:585.563<br/>LWL:8.85<br/>MWL:11.85</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.4772000,17.6065000
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:TURKAPALLY<br/> Location:TURKAPALLY<br/>Asset Code:150430900101010090307002<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :60<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.5924380,17.6721700<br/>Capacity:200.00<br/>Staging:12.9 <br/>GL:590.2<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.5924380,17.6721700
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:KOLTHOOR<br/> Location:KOLTHOOR<br/>Asset Code:150430900201020090307004<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :5<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.6368010,17.6597530<br/>Capacity:90.00<br/>Staging:12.9 <br/>GL:548<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.6368010,17.6597530
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:RAJDHARKHANPET<br/> Location:RAJDHARKHANPET<br/>Asset Code:150430900202020090307002<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :10<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.6365220,17.6680450<br/>Capacity:40.00<br/>Staging:12.9 <br/>GL:564.1<br/>LWL:6<br/>MWL:9</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.6365220,17.6680450
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:POTHARAM<br/> Location:POTHARAM<br/>Asset Code:150430900301030090307002<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :10<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.6666830,17.6630530<br/>Capacity:40.00<br/>Staging:12.9 <br/>GL:561.29<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.6666830,17.6630530
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:NARAYANAPUR<br/> Location:NARAYANAPUR<br/>Asset Code:150430900501030090307002<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :5<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.6811200,17.6846270<br/>Capacity:40.00<br/>Staging:15 <br/>GL:569.5<br/>LWL:12<br/>MWL:15</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.6811200,17.6846270
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:LAXMAPOOR<br/> Location:LAXMAPOOR<br/>Asset Code:150430900601050090307003<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :30<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.7046510,17.6622770<br/>Capacity:120.00<br/>Staging:12.9 <br/>GL:561.22<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.7046510,17.6622770
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:MUDCHINTALPALLY<br/> Location:MUDCHINTALPALLY<br/>Asset Code:150430900701060090307003<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :5<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.6917390,17.6535110<br/>Capacity:60.00<br/>Staging:12.9 <br/>GL:565<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.6917390,17.6535110
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:KESHWARAM<br/> Location:KESHWARAM<br/>Asset Code:150430900901070090307002<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :5<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.6528960,17.6368910<br/>Capacity:90.00<br/>Staging:12.9 <br/>GL:540.5<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.6528960,17.6368910
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:SAMPANBOLE<br/> Location:SAMPANBOLE<br/>Asset Code:150430901001080090307002<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :30<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.6236010,17.6278510<br/>Capacity:90.00<br/>Staging:15 <br/>GL:540.9<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.6236010,17.6278510
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:LALGADI MALAKPET<br/> Location:LALGADI MALAKPET<br/>Asset Code:150430901101090090307005<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :15<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.6027240,17.6324550<br/>Capacity:150.00<br/>Staging:12.9 <br/>GL:575.8<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.6027240,17.6324550
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:ALIABAD<br/> Location:ALIABAD<br/>Asset Code:150430901301110090307001<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :30<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.5985600,17.6225860<br/>Capacity:350.00<br/>Staging:12.9 <br/>GL:559.8<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.5985600,17.6225860
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:ADRASPALLY<br/> Location:ADRASPALLY<br/>Asset Code:150430901501120090307002<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :15<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.6589250,17.6155380<br/>Capacity:120.00<br/>Staging:12.9 <br/>GL:544.8<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.6589250,17.6155380
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:LINGAPOOR THANDA<br/> Location:?LINGAPOOR THANDA<br/>Asset Code:150430901602060090307002<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :10<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.6894420,17.6401540<br/>Capacity:40.00<br/>Staging:12.9 <br/>GL:547.5<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.6894420,17.6401540
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:UDDEMARRY<br/> Location:UDDEMARRY<br/>Asset Code:150430901701130090307002<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :25<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.6779960,17.6182840<br/>Capacity:40.00<br/>Staging:12.9 <br/>GL:532.5<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.6779960,17.6182840
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:KESHAWAPUR<br/> Location:KESHAWAPUR<br/>Asset Code:150430901901140090307002<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :10<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.6863420,17.6182840<br/>Capacity:60.00<br/>Staging:12.9 <br/>GL:534.42<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.6863420,17.6182840
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:PONNAL<br/> Location:PONNAL<br/>Asset Code:150430902101150090307003<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :25<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.6302500,17.6035050<br/>Capacity:40.00<br/>Staging:12.9 <br/>GL:551<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.6302500,17.6035050
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:BOMRASPET<br/> Location:BOMRASPET<br/>Asset Code:150430902201160090307003<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :5<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.6107390,17.5981070<br/>Capacity:90.00<br/>Staging:12.9 <br/>GL:560<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.6107390,17.5981070
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:SHAMEERPET<br/> Location:SHAMEERPET<br/>Asset Code:150430902301170090307003<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :20<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.5741860,17.9919830<br/>Capacity:150.00<br/>Staging:12.9 <br/>GL:590.9<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.5741860,17.9919830
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:SHAMEERPET<br/> Location:SHAMEERPET<br/>Asset Code:150430902301170090307004<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :20<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.5500440,17.5980170<br/>Capacity:120.00<br/>Staging:12.9 <br/>GL:576.41<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.5500440,17.5980170
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=/tdwspfiles/150431100401020090307003/progressfiles/16-07-2016-101315/Yadgarpally 120KL.jpg><img src=/tdwspfiles/150431100401020090307003/progressfiles/16-07-2016-101315/Yadgarpally 120KL.jpg width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:YADGARPALLY<br/> Location:YADGARPALLY<br/>Asset Code:150431100401020090307003<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :65<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.6331000,17.5491170<br/>Capacity:120.00<br/>Staging:12.9 <br/>GL:558<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.6331000,17.5491170
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:KEESARA<br/> Location:KEESARA<br/>Asset Code:150431100501030090307003<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :60<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.6688610,17.5308330<br/>Capacity:200.00<br/>Staging:12.9 <br/>GL:550<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.6688610,17.5308330
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:KEESARA<br/> Location:KEESARA<br/>Asset Code:150431100501030090307004<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :65<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.6644330,17.5266170<br/>Capacity:90.00<br/>Staging:12.9 <br/>GL:549<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.6644330,17.5266170
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=/tdwspfiles/150431100504040090307003/progressfiles/16-07-2016-094925/Ankireddy pally bottom slab level.jpg><img src=/tdwspfiles/150431100504040090307003/progressfiles/16-07-2016-094925/Ankireddy pally bottom slab level.jpg width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:ANKIREDDYPALLY<br/> Location:ANKIREDDYPALLY<br/>Asset Code:150431100504040090307003<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :60<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.6842670,17.5620170<br/>Capacity:90.00<br/>Staging:15 <br/>GL:576<br/>LWL:11.1<br/>MWL:14.1</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.6842670,17.5620170
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=/tdwspfiles/150431100901030090307002/progressfiles/16-07-2016-101823/Keesara Daira 90 KL.jpg><img src=/tdwspfiles/150431100901030090307002/progressfiles/16-07-2016-101823/Keesara Daira 90 KL.jpg width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:KEESARADIARA<br/> Location:KEESARADIARA<br/>Asset Code:150431100901030090307002<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :60<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.6618500,17.5079330<br/>Capacity:90.00<br/>Staging:12.9 <br/>GL:523<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.6618500,17.5079330
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=/tdwspfiles/150431100903030090307002/progressfiles/16-07-2016-101938/Nookalguda 40 KL.jpg><img src=/tdwspfiles/150431100903030090307002/progressfiles/16-07-2016-101938/Nookalguda 40 KL.jpg width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:NOOKALGUDA<br/> Location:NOOKALGUDA<br/>Asset Code:150431100903030090307002<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :60<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.6698670,17.5117000<br/>Capacity:40.00<br/>Staging:12.9 <br/>GL:534<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.6698670,17.5117000
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=/tdwspfiles/150431101504090090307002/progressfiles/16-07-2016-110633/Rampally Daira 40 KL.jpg><img src=/tdwspfiles/150431101504090090307002/progressfiles/16-07-2016-110633/Rampally Daira 40 KL.jpg width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:RAMPALLY DIORA<br/> Location:RAMPALLY DIORA<br/>Asset Code:150431101504090090307002<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :20<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.6595330,17.4996500<br/>Capacity:40.00<br/>Staging:12.9 <br/>GL:515<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.6595330,17.4996500
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=/tdwspfiles/150431101505090090307002/progressfiles/16-07-2016-105719/Laloniguda sidewall.jpg><img src=/tdwspfiles/150431101505090090307002/progressfiles/16-07-2016-105719/Laloniguda sidewall.jpg width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:LALONIGUDA<br/> Location:LALONIGUDA<br/>Asset Code:150431101505090090307002<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :65<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.6723170,17.5010500<br/>Capacity:40.00<br/>Staging:12.9 <br/>GL:532<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.6723170,17.5010500
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>BPT</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/tdwspfiles/150431101601100090305002/progressfiles/26-11-2016-042437/IMG-20161126-WA0066.jpg><img src=http://missionbhagiratha.telangana.gov.in/tdwspfiles/150431101601100090305002/progressfiles/26-11-2016-042437/IMG-20161126-WA0066.jpg width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:BOGARAM<br/> Location:BOGARAM-HILLOCK<br/>Asset Code:150431101601100090305002<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16,DT:14102015 <br/> Target Date:31-08-2016<br/>Completed % :75<br/>Amount Paid:45.06<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.6684530,17.4866470<br/>Capacity:200<br/>Staging:13 <br/>GL:515<br/>LWL:528<br/>MWL:532</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.6684530,17.4866470
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:BOGARAM<br/> Location:BOGARAM<br/>Asset Code:150431101601100090307003<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :0<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.6698670,17.5117000<br/>Capacity:90.00<br/>Staging:12.9 <br/>GL:549<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.6698670,17.5117000
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=/tdwspfiles/150431200801060090307002/progressfiles/16-07-2016-105346/kondapur 120KL.jpg><img src=/tdwspfiles/150431200801060090307002/progressfiles/16-07-2016-105346/kondapur 120KL.jpg width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:KONDAPUR<br/> Location:KONDAPUR<br/>Asset Code:150431200801060090307002<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :5<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.6922890,17.4650760<br/>Capacity:120.00<br/>Staging:12.9 <br/>GL:502<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.6922890,17.4650760
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=/tdwspfiles/150431200901070090307004/progressfiles/16-07-2016-095812/Aushapur 200KL.jpg><img src=/tdwspfiles/150431200901070090307004/progressfiles/16-07-2016-095812/Aushapur 200KL.jpg width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:AUSHAPUR<br/> Location:AUSHAPUR<br/>Asset Code:150431200901070090307004<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :60<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.7313830,17.4585670<br/>Capacity:200.00<br/>Staging:12.9 <br/>GL:465<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.7313830,17.4585670
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=/tdwspfiles/150431201001080090307003/progressfiles/16-07-2016-095557/200kl OHSR tap slab completed @ankushapur.jpg><img src=/tdwspfiles/150431201001080090307003/progressfiles/16-07-2016-095557/200kl OHSR tap slab completed @ankushapur.jpg width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:ANKUSHPUR<br/> Location:ANKUSHPUR<br/>Asset Code:150431201001080090307003<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :65<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.7303940,17.4461280<br/>Capacity:200.00<br/>Staging:12.9 <br/>GL:460<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.7303940,17.4461280
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=/tdwspfiles/150431201003080090307001/progressfiles/16-07-2016-102119/Kepal 40Kl.jpg><img src=/tdwspfiles/150431201003080090307001/progressfiles/16-07-2016-102119/Kepal 40Kl.jpg width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:KEPAL<br/> Location:KEPAL<br/>Asset Code:150431201003080090307001<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :65<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.7516500,17.4656830<br/>Capacity:40.00<br/>Staging:12.9 <br/>GL:470<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.7516500,17.4656830
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=/tdwspfiles/150431201101090090307008/progressfiles/16-07-2016-101000/300kl ews colony.jpg><img src=/tdwspfiles/150431201101090090307008/progressfiles/16-07-2016-101000/300kl ews colony.jpg width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:GHATKESAR<br/> Location:GHATKESAR<br/>Asset Code:150431201101090090307008<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :5<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.6874250,17.4610710<br/>Capacity:300.00<br/>Staging:15 <br/>GL:494<br/>LWL:11.1<br/>MWL:14.1</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.6874250,17.4610710
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=/tdwspfiles/150431201103090090307002/progressfiles/16-07-2016-110846/500kl shivareddy guda.jpg><img src=/tdwspfiles/150431201103090090307002/progressfiles/16-07-2016-110846/500kl shivareddy guda.jpg width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:SHIVAREDDYGUDA<br/> Location:SHIVAREDDYGUDA<br/>Asset Code:150431201103090090307002<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :0<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.6775670,17.4439850<br/>Capacity:500.00<br/>Staging:15 <br/>GL:476<br/>LWL:11.1<br/>MWL:14.1</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.6775670,17.4439850
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=/tdwspfiles/150431201104210090307002/progressfiles/16-07-2016-110306/NFC 90KL.jpg><img src=/tdwspfiles/150431201104210090307002/progressfiles/16-07-2016-110306/NFC 90KL.jpg width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:NFC NAGAR<br/> Location:NFC NAGAR<br/>Asset Code:150431201104210090307002<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :5<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.7004100,17.4452160<br/>Capacity:90.00<br/>Staging:12.9 <br/>GL:479<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.7004100,17.4452160
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=/tdwspfiles/150431201105210090307001/progressfiles/16-07-2016-095947/Bokkaniguda 40KL.jpg><img src=/tdwspfiles/150431201105210090307001/progressfiles/16-07-2016-095947/Bokkaniguda 40KL.jpg width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:BOKKONIGUDA<br/> Location:BOKKONIGUDA<br/>Asset Code:150431201105210090307001<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :5<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.6960380,17.4414400<br/>Capacity:40.00<br/>Staging:12.9 <br/>GL:475<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.6960380,17.4414400
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=/tdwspfiles/150431201106210090307001/progressfiles/16-07-2016-100536/Chandupatlaguda 60-KL.jpg><img src=/tdwspfiles/150431201106210090307001/progressfiles/16-07-2016-100536/Chandupatlaguda 60-KL.jpg width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:CHANDUPATLAGUDA<br/> Location:CHANDUPATLAGUDA<br/>Asset Code:150431201106210090307001<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :60<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.7024430,17.4387820<br/>Capacity:60.00<br/>Staging:12.9 <br/>GL:470<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.7024430,17.4387820
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=/tdwspfiles/150431202001160090307004/progressfiles/16-07-2016-100752/300KL-15 Edulabad.jpg><img src=/tdwspfiles/150431202001160090307004/progressfiles/16-07-2016-100752/300KL-15 Edulabad.jpg width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:EDULABAD<br/> Location:EDULABAD<br/>Asset Code:150431202001160090307004<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :5<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.7117780,17.4207960<br/>Capacity:300.00<br/>Staging:15 <br/>GL:470<br/>LWL:11.1<br/>MWL:14.1</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.7117780,17.4207960
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=/tdwspfiles/150431202002160090307002/progressfiles/16-07-2016-110458/Potrajguda 60Kl.jpg><img src=/tdwspfiles/150431202002160090307002/progressfiles/16-07-2016-110458/Potrajguda 60Kl.jpg width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:POTHIRAJGUDA<br/> Location:POTHIRAJGUDA<br/>Asset Code:150431202002160090307002<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :50<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.7234500,17.4046500<br/>Capacity:60.00<br/>Staging:12.9 <br/>GL:448<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.7234500,17.4046500
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=/tdwspfiles/150431202003160090307001/progressfiles/16-07-2016-110039/MarapalliGuda 40KL.jpg><img src=/tdwspfiles/150431202003160090307001/progressfiles/16-07-2016-110039/MarapalliGuda 40KL.jpg width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:MARPALLYGUDA<br/> Location:Anganwadi Building<br/>Asset Code:150431202003160090307001<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :0<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.4228000,17.2547000<br/>Capacity:40.00<br/>Staging:13 <br/>GL:460<br/>LWL:460<br/>MWL:473</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.4228000,17.2547000
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=/tdwspfiles/150431202003160090307002/progressfiles/16-07-2016-110157/MarapalliGuda 40KL.jpg><img src=/tdwspfiles/150431202003160090307002/progressfiles/16-07-2016-110157/MarapalliGuda 40KL.jpg width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:MARPALLYGUDA<br/> Location:MARPALLYGUDA<br/>Asset Code:150431202003160090307002<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :60<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.7081470,17.4297370<br/>Capacity:40.00<br/>Staging:12.9 <br/>GL:466<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.7081470,17.4297370
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=/tdwspfiles/150431202004160090307001/progressfiles/16-07-2016-105529/Kothaguda 40KL.jpg><img src=/tdwspfiles/150431202004160090307001/progressfiles/16-07-2016-105529/Kothaguda 40KL.jpg width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:KOTHAGUDA<br/> Location:KOTHAGUDA<br/>Asset Code:150431202004160090307001<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :60<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.7332500,17.3949170<br/>Capacity:40.00<br/>Staging:12.9 <br/>GL:436<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.7332500,17.3949170
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:GHANAPUR<br/> Location:GHANAPUR<br/>Asset Code:150431202305170090307003<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :50<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.6869260,17.4308410<br/>Capacity:60.00<br/>Staging:12.9 <br/>GL:466<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.6869260,17.4308410
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:GUNTUR BASTHI<br/> Location:GUNTUR BASTHI<br/>Asset Code:150450700103010090307002<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :5<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.3881000,17.6129370<br/>Capacity:40.00<br/>Staging:12.9 <br/>GL:608.88<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.3881000,17.6129370
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:GUNTUR BASTHI<br/> Location:GUNTUR BASTHI<br/>Asset Code:150450700103010090307003<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :5<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.3838070,17.6127520<br/>Capacity:60.00<br/>Staging:12.9 <br/>GL:607.265<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.3838070,17.6127520
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:NAGLOOR<br/> Location:NAGLOOR<br/>Asset Code:150450700201020090307002<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :5<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.4273170,17.6241290<br/>Capacity:60.00<br/>Staging:12.9 <br/>GL:600.506<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.4273170,17.6241290
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:DUNDIGAL<br/> Location:DUNDIGAL<br/>Asset Code:150450700301020090307001<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :10<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.4119800,17.6063760<br/>Capacity:120.00<br/>Staging:12.9 <br/>GL:610.21<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.4119800,17.6063760
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:DUNDIGAL<br/> Location:DUNDIGAL<br/>Asset Code:150450700301020090307002<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :60<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.4152350,17.6070640<br/>Capacity:120.00<br/>Staging:12.9 <br/>GL:605.05<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.4152350,17.6070640
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:DUNDIGAL<br/> Location:DUNDIGAL<br/>Asset Code:150450700301020090307003<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :15<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.4124510,17.6105580<br/>Capacity:150.00<br/>Staging:12.9 <br/>GL:606.997<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.4124510,17.6105580
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:DUNDIGAL<br/> Location:DUNDIGAL<br/>Asset Code:150450700301020090307004<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :25<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.4161060,17.6064420<br/>Capacity:250.00<br/>Staging:15 <br/>GL:604.34<br/>LWL:616.34<br/>MWL:619.34</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.4161060,17.6064420
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:DUNDIGAL TANDA II<br/> Location:DUNDIGAL TANDA II<br/>Asset Code:150450700303020090307001<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :5<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.3897590,17.5927280<br/>Capacity:60.00<br/>Staging:12.9 <br/>GL:616.05<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.3897590,17.5927280
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>OHSR</name>
+<description><![CDATA[<div align="center"><table width="250"><tr><td>
+<a href=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png><img src=http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png width="250" height="250"></a>
+</td></tr></table></div>]]>Habitation:SHAMBIPUR<br/> Location:SHAMBIPUR<br/>Asset Code:150450700801050090307001<br/>Agent:KAVERY INFRA PROJECTS PVT LTD<br/>Agrement:02/2015-16, DT:06022016 <br/> Target Date:13-10-2016<br/>Completed % :0<br/>Amount Paid:0<br/>Segment:HMWSSB-Medchal segment<br/>GPS Coordinates:78.3725830,17.5658340<br/>Capacity:40.00<br/>Staging:12.9 <br/>GL:573.613<br/>LWL:9<br/>MWL:12</description>
+<Style id="randomColorIcon">
+<IconStyle>
+<Icon>
+<href>http://missionbhagiratha.telangana.gov.in/images/home/ohsr.png</href>
+</Icon></IconStyle>
+</Style>
+<ExtendedData>
+<SchemaData schemaUrl="#structures">
+<SimpleData name="tessellate">-1</SimpleData>
+<SimpleData name="extrude">-1</SimpleData>
+<SimpleData name="visibility">-1</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>
+78.3725830,17.5658340
+</coordinates>
+</Point>
+</Placemark>
+</Folder></Document></kml>
